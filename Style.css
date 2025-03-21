@@ -1,0 +1,22 @@
+
+@import "tailwindcss";
+
+
+body{
+    /* background-image: url("./Assets/vegetable\ background\ img.jpg"); */
+     font-family:'Times New Roman', Times, serif; 
+    
+     
+}
+
+
+
+.head{
+    background-color:orange;
+}
+/* #h1{
+    font-size: xx-large;
+} */
+#first-sec{
+    align-content: center;
+}
